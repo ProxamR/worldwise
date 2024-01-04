@@ -1,4 +1,3 @@
-
 import styles from './CityList.module.css';
 import CityItem from './CityItem'; // Ensure this matches the actual file name
 import Spinner from './Spinner';
